@@ -31,7 +31,7 @@ class Header extends Component {
 								<p className="info-text company-name">Progressive Associates of India,</p><br/>
 								<p><i className="fa fa-map-marker">&nbsp;</i>Plot No. 5, Nandadeep Society,
 								Near Janseva Bank, Anand Nagar, 
-								Sinhgad Road, Pune - 411051, Maharashtra, India.
+								Sinhgad Road,pune - 411051, Maharashtra, India.
 								</p>
 							</li>
 						</ul>
@@ -140,7 +140,7 @@ class Header extends Component {
 											<a href="#" className="dropdown-toggle" data-toggle="dropdown">Services <i
 													className="fa fa-angle-down"></i></a>
 											<ul className="dropdown-menu" role="menu">
-												<li><a href="services.html">Services All</a></li>
+												<li><a href="services.html">Services</a></li>
 											</ul>
 										</li>
 										
